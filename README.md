@@ -1,5 +1,3 @@
-Sure! Here's an example of a beautiful README file for an NLP notebook repository:
-
 # NLP Notebooks
 
 Welcome to the NLP Notebooks repository! This repository contains a collection of Jupyter notebooks that demonstrate how to use natural language processing techniques to analyze text data.
